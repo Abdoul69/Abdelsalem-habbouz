@@ -1,4 +1,3 @@
-# Abdelsalem-habbouz
 # 👋 Hi, I'm Abdelsalem Habbouz
 
 🎓 **Computer Science Student at ESGI (Paris)**  
